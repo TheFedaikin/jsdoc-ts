@@ -1,7 +1,7 @@
 // @ts-check
 
 /**
- * @type import('./server').Server
+ * @type import('./types').Server
  */
 export const server = () => {
   console.log('Started')
