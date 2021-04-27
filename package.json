@@ -1,0 +1,13 @@
+{
+  "name": "jsdoc-example",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "GPL-3.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "check": "tsc --noEmit"
+  }
+}
